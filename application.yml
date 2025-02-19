@@ -1,7 +1,7 @@
 spring: 
   application: 
     name: config-default
-  eureka:
+ eureka:
     instance:
       prefer-ip-address: true
       ip-address: 172.30.112.1
