@@ -1,7 +1,7 @@
   eureka:
     instance:
       prefer-ip-address: true
-      # ip-address: 172.30.112.1
+      ip-address: 172.30.112.1
       hostname: localhost
     client:
       fetch-registry: true
