@@ -5,5 +5,5 @@ spring:
         config:
           server:
             git:
-              uri: https://github.com/MadhuMarrapu/microservice-config.git
+              uri: https://github.com/MadhuMarrapu/microservice-config
               clone-on-start: true
